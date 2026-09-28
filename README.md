@@ -1,5 +1,7 @@
 *A quick forward for the humans in the room:* This is mostly a collection of ideas. It should not be viewed as authoratative, nor accepted without critical thinking. This repo is open for additions, subtractions, ammendments, and disagreement. Please feel free to make a productive PR with your thoughts. 
 
+[![DOI](https://zenodo.org/badge/1392019667.svg)](https://doi.org/10.5281/zenodo.23008504)
+
 
 # Using Large Language Models for Research Coding: A Practical Guide
 

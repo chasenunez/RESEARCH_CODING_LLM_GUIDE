@@ -1,3 +1,6 @@
+*A quick forward for the humans in the room:* This is mostly a collection of ideas. It should not be viewed as authoratative, nor accepted without critical thinking. This repo is open for additions, subtractions, ammendments, and disagreement. Please feel free to make a productive PR with your thoughts. 
+
+
 # Using Large Language Models for Research Coding: A Practical Guide
 
 Large language models are, by design, not compatible with reproducible coding. They are non-deterministic, their internal states are opaque, their training data is undisclosed, and their outputs cannot be guaranteed to be stable across time, versions, or even consecutive identical requests. No amount of parameter tuning changes this fundamental characteristic.
